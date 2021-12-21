@@ -1,0 +1,1 @@
+Um arquivo descritivo sobre o sistema.
